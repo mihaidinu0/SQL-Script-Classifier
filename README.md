@@ -7,7 +7,7 @@ This project is a simple classifier for SQL queries that classifies them into 2 
 A live, user-friendly demo of the project will be available soon, at: https://sql-classifier.mihaidinu.com
 
 ## Data
-The entire dataset contains 20,000 queries. The dataset is split into 3 parts: `train`, `test` and `validation`. The `train` and `validation` sets contain 10.000 queries each.
+The current dataset contains 56.610 queries. (Previously a 20.000 entries dataset was used) The dataset is split into 3 parts: `train`, `test` and `validation`.
 - __Train__ has 45.288 entries
 - __Validation__ has 5.661 entries
 - __Test__ has 5.661 entries
